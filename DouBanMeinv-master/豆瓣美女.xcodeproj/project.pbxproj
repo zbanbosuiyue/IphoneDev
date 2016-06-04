@@ -243,13 +243,6 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		897112761C1F7DE50081D571 /* Common */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Common;
-			sourceTree = "<group>";
-		};
 		89A81F441BF4C81B00BEFF46 = {
 			isa = PBXGroup;
 			children = (
@@ -276,7 +269,6 @@
 		89A81F4F1BF4C81B00BEFF46 /* 豆瓣美女 */ = {
 			isa = PBXGroup;
 			children = (
-				897112761C1F7DE50081D571 /* Common */,
 				89005D471C1D66F100537176 /* Model */,
 				89005D461C1D608900537176 /* Third */,
 				89A81FCB1BF4DA8C00BEFF46 /* Controller */,
